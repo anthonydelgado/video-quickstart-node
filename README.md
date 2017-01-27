@@ -44,7 +44,7 @@ the name of the room you want to join and click on 'Join Room'. Then,
 open another tab and join the same room. Now, you should see your own
 video in both the tabs!
 
-![screenshot of chat app](https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/video2.original.png)
+![screenshot of chat app](https://raw.githubusercontent.com/anthonydelgado/video-quickstart-node/master/public/Screen%20Shot%202017-01-27%20at%2010.28.36%20AM.png)
 
 ## License
 MIT
